@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/atinux-mcp-with-nuxt-badge.png)](https://mseep.ai/app/atinux-mcp-with-nuxt)
+
 # Nuxt MCP Server Template
 
 This is a simple Nuxt application that serves as a MCP server using the [Streamable HTTP Server Transport](https://modelcontextprotocol.io/specification/2025-06-18/basic/transports#streamable-http).
